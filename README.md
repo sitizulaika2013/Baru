@@ -1,3 +1,3 @@
 # Baru
-Tahapan Pengerjaan kolaborasi Git :
+Tahapan Pengerjaan kolaborasi Git  :
 1. Setup Environment Git
